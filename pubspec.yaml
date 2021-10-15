@@ -1,7 +1,7 @@
 name: ah_widgets
-description: A new Flutter package project.
+description: Kumpulan widgets buat kamu.
+homepage: https://github.com/ardyhim/ah_widgets
 version: 0.0.1
-homepage:
 
 environment:
   sdk: ">=2.12.0 <3.0.0"
